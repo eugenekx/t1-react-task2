@@ -1,6 +1,7 @@
 import "./App.css";
 import Menu from "./Menu";
 import Hero from "./Hero";
+import Features from "./Features";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Menu />
 
       <Hero />
+      <Features />
     </>
   );
 }

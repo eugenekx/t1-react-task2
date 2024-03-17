@@ -4,7 +4,7 @@ import heroArrow from "./assets/hero-arrow.svg";
 
 export default function Hero() {
   return (
-    <section className="pt-[118px] flex justify-between">
+    <section className="max-w-[1280px] mx-auto pt-[118px] flex justify-between mb-[83px]">
       <div>
         <div className="flex gap-5 items-center opacity-20">
           <div className="h-px bg-[#201F1F] w-[54px]" />
