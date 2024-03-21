@@ -4,7 +4,7 @@ import btnArrow from "./assets/btn-arrow.svg";
 
 export default function Download() {
   return (
-    <section className="grid grid-cols-2 py-[106px] max-w-[1280px] mx-auto">
+    <section className="grid grid-cols-2 py-[106px] max-w-[1280px] mx-auto  border-b-[#CBCBCB] border-b">
       <div className="place-self-center relative">
         <img src="download-screen.png" alt="" />
         <img
